@@ -1,0 +1,9 @@
+README.rst
+setup.py
+bartender_bot/__init__.py
+bartender_bot/main.py
+bartender_bot.egg-info/PKG-INFO
+bartender_bot.egg-info/SOURCES.txt
+bartender_bot.egg-info/dependency_links.txt
+bartender_bot.egg-info/requires.txt
+bartender_bot.egg-info/top_level.txt
